@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kedar Jasud</h1>
-<h3 align="center">A Student</h3>
+# Welcome to My GitHub Profile! 👋
 
-- 🔭 I’m currently working on **developing my technical skills.**
+## About Me
 
-- 🌱 I’m currently learning **Data Science**
+Hi, I'm Kedar Jasud!
 
-- 👯 I’m looking to collaborate on **web-development projects.**
+- 🎓 I am a passionate developer with interests in Software development, Data science, and Machine learning.
+- 🌱 I’m currently learning advanced concepts in Ml and working on various software development projects.
+- 📫 How to reach me: kedarjasud@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love solving puzzles and playing cricket in my free time.
 
-- 💬 Ask me about **Python, Web-dev,**
+## GitHub Stats
 
-- 📫 How to reach me **kedarjasud4507@gmail.com**
+![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itskedarjasud&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kedar jasud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedar jasud" height="30" width="40" /></a>
-</p>
+## Skills and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Skills](https://skillicons.dev/icons?i=javascript,html,css,python,java,git,github,&perline=4)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kedar-jasud-1a9258230/)
+
+
+
