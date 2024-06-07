@@ -6,7 +6,7 @@ Hi, I'm Kedar Jasud!
 
 - 🎓 I am a passionate developer with interests in Software development, Data science, and Machine learning.
 - 🌱 I’m currently learning advanced concepts in Ml and working on various software development projects.
-- 📫 How to reach me: kedarjasud@gmail.com.
+- 📫 How to reach me: kedarjasud4507@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love solving puzzles and playing cricket in my free time.
 
