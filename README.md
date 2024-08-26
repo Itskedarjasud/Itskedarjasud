@@ -1,26 +1,27 @@
-# Welcome to My GitHub Profile! 👋
+# Hi 👋 , I'm Kedar Jasud
+<h5 align="left">
+I am a final-year student passionate about development and machine learning, working on innovative projects that blend software engineering with intelligent systems.
+</h5>
 
-## About Me
-
-Hi, I'm Kedar Jasud!
-
-- 🎓 I am a passionate developer with interests in Software development, Data science, and Machine learning.
-- 🌱 I’m currently learning advanced concepts in Ml and working on various software development projects.
-- 📫 How to reach me: kedarjasud4507@gmail.com.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love solving puzzles and playing cricket in my free time.
-
-## GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itskedarjasud&label=Profile%20views&style=flat" alt="Tiwarishashwat" /> </p>
+<p>
+<a align= "center" href="https://github.com/Itskedarjasud">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Itskedarjasud&theme=radical">
 
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itskedarjasud&show_icons=true&theme=radical)
 
-## Skills and Tools
 
-![Skills](https://skillicons.dev/icons?i=javascript,html,css,python,java,git,github,&perline=4)
 
-## Connect with Me
+- 📫 How to reach me: kedarjasud4507@gmail.com.
+<br><br>
+<hr>
 
-- [LinkedIn](https://www.linkedin.com/in/kedar-jasud-1a9258230/)
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/kedarjasud/" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="shashwattiwari1999" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 
 
 
